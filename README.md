@@ -16,6 +16,6 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 👤 **Vivek Sakariya**
 
-* LinkedIn: [@arasgungore](https://linkedin.com/in/v-sakariya)
+* LinkedIn: [@v-sakariya](https://linkedin.com/in/v-sakariya)
 )
-* GitHub: [@arasgungore](https://github.com/v-sakariya)
+* GitHub: [@v-sakariya](https://github.com/v-sakariya)
